@@ -2,6 +2,6 @@ package test111;
 
 public class test1 {
 	public static void main(String[] args) {
-		
+		String a = "asd";
 	}
 }
